@@ -1,0 +1,11 @@
+
+ .profile {
+    font-size: 5rem;
+    font-weight: bold;
+    margin-bottom: 50px;
+    display: block;
+    display: flex;
+    justify-self: center;
+    font-family:'Times New Roman', Times, serif;
+    
+} 
